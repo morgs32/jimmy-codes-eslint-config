@@ -1,6 +1,7 @@
 {
   "version": "0.2",
   "words": [
+    "antfu",
     "cicd",
     "commitlint",
     "commitlintrc",
@@ -9,17 +10,28 @@
     "deps",
     "esbenp",
     "esbuild",
+    "eslintconfig",
     "gitzy",
     "gruntfuggly",
+    "Hiroki",
+    "jiti",
     "lcov",
     "lefthook",
+    "lockb",
+    "nuxt",
     "nvmrc",
+    "Osame",
     "pkgroll",
     "pnpm",
+    "privatenumber",
+    "pvtnbr",
+    "setstate",
     "shellcheck",
     "streetsidesoftware",
+    "textnodes",
     "tiged",
     "typecheck",
+    "vitepress",
     "vitest",
     "wagoid"
   ],
@@ -34,6 +46,8 @@
     "*.dll",
     "**/*.dll",
     "yarn.lock",
-    "pnpm-lock.yaml"
+    "pnpm-lock.yaml",
+    "**/__snapshots__",
+    "**/__snapshots__/**"
   ]
 }

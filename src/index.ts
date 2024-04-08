@@ -1,1 +1,3 @@
-export const lib = "";
+import { jimmyDotCodes } from "./factory";
+
+export default jimmyDotCodes;

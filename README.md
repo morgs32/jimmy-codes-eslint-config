@@ -6,10 +6,127 @@
 [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg?style=flat-square)](https://semantic-release.gitbook.io/semantic-release)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square&logo=prettier)](https://github.com/prettier/prettier)
 
-> 🔍 my personal [eslint](https://eslint.org/) config
+> 🔍 another opinionated [eslint](https://eslint.org) config
+
+_This is an evolution of [eslint-config-jimmy-guzman](https://github.com/jimmy-guzman/eslint-config-jimmy-guzman)_
 
 ## 🛠️ Usage
+
+### 🔨 Getting Started
+
+First install the package, by running the following:
 
 ```
 pnpm add -D @jimmy.codes/eslint-config
 ```
+
+Then if you want a simple configuration:
+
+```js
+// eslint.config.mjs
+// @ts-check
+import jimmyDotCodes from "@jimmy.codes/eslint-config";
+
+export default jimmyDotCodes();
+```
+
+And if you're using [VS Code](https://code.visualstudio.com), make sure to enable [flat configuration](https://eslint.org/docs/v8.x/use/configure/configuration-files-new):
+
+```jsonc
+// .vscode/settings.json
+{
+  "eslint.experimental.useFlatConfig": true,
+}
+```
+
+### 🔧 Configuration
+
+This package contains rules that can be enabled or disabled as follows:
+
+```js
+// eslint.config.mjs
+// @ts-check
+import jimmyDotCodes from "@jimmy.codes/eslint-config";
+
+export default jimmyDotCodes({
+  /**
+   * Are TypeScript rules are enabled?
+   * @default false
+   */
+  typescript: true,
+  /**
+   * Are React rules are enabled?
+   * @default false
+   */
+  react: true,
+  /**
+   * Are testing rules are enabled?
+   * @default false
+   */
+  testing: true,
+});
+```
+
+#### TypeScript
+
+You can also change the project location which can be helpful for monorepos:
+
+```js
+// eslint.config.mjs
+// @ts-check
+import jimmyDotCodes from "@jimmy.codes/eslint-config";
+
+export default jimmyDotCodes({
+  typescript: {
+    project: ["./tsconfig.eslint.json", "./packages/*/tsconfig.json"],
+  },
+});
+```
+
+#### Testing
+
+By default [vitest](https://vitest.dev) is used as the testing framework but you can override and add some utilities:
+
+```js
+// eslint.config.mjs
+// @ts-check
+import jimmyDotCodes from "@jimmy.codes/eslint-config";
+
+export default jimmyDotCodes({
+  testing: {
+    framework: "jest",
+    utilities: ["testing-library"],
+  },
+});
+```
+
+#### Overrides
+
+You can also extend or override the configuration:
+
+```js
+// eslint.config.mjs
+// @ts-check
+import jimmyDotCodes from "@jimmy.codes/eslint-config";
+
+export default jimmyDotCodes({
+  overrides: [
+    {
+      rules: {
+        "prefer-const": "error",
+      },
+    },
+    {
+      files: ["/**/*.js"],
+      rules: {
+        semi: "error",
+      },
+    },
+  ],
+});
+```
+
+## ❤️ Credits
+
+- [@antfu/eslint-config](https://github.com/antfu/eslint-config) by [Anthony Fu](https://antfu.me)
+- [@pvtnbr/eslint-config](https://github.com/privatenumber/eslint-config) by [Hiroki Osame](https://hirok.io/)
