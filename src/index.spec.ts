@@ -1,5 +1,5 @@
-import { lib } from "./index";
+import index from "./index";
 
-test("lib", () => {
-  expect(lib).toBe("");
+test("should create default configuration", () => {
+  expect(index()).toMatchSnapshot();
 });
