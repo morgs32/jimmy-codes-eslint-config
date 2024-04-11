@@ -1,3 +1,17 @@
+# [1.4.0](https://github.com/jimmy-guzman/eslint-config/compare/v1.3.0...v1.4.0) (2024-04-11)
+
+
+### Bug Fixes
+
+* 🐛 disable expect-expect & no-deprecated-functions in e2e ([2ce0b5a](https://github.com/jimmy-guzman/eslint-config/commit/2ce0b5ab2855cf86ed86c3c25b102d1b154ff51f))
+* 🐛 include missing `cypress` for e2e testing ([370e228](https://github.com/jimmy-guzman/eslint-config/commit/370e2287be11ef6b5ae452f90e5bbc1b983f7fd3))
+
+
+### Features
+
+* ✨ add warnings for console logs ([2ee8dd7](https://github.com/jimmy-guzman/eslint-config/commit/2ee8dd7bfbe33539e16504be866b5b0f99f3bf30))
+* ✨ allow numbers for restrict-template-expressions ([726264d](https://github.com/jimmy-guzman/eslint-config/commit/726264d860879e9346a52c506e4ca2933b6774e4))
+
 # [1.3.0](https://github.com/jimmy-guzman/eslint-config/compare/v1.2.0...v1.3.0) (2024-04-09)
 
 
