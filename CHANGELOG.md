@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/jimmy-guzman/eslint-config/compare/v1.4.0...v1.5.0) (2024-04-13)
+
+
+### Features
+
+* ✨ add auto detection to enable configurations ([a65831b](https://github.com/jimmy-guzman/eslint-config/commit/a65831b73c6e0f30ec4e71da90bc56000944d9d2))
+
 # [1.4.0](https://github.com/jimmy-guzman/eslint-config/compare/v1.3.0...v1.4.0) (2024-04-11)
 
 
