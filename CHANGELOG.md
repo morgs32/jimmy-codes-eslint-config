@@ -1,3 +1,17 @@
+# [1.6.0](https://github.com/jimmy-guzman/eslint-config/compare/v1.5.0...v1.6.0) (2024-04-13)
+
+
+### Bug Fixes
+
+* 🐛 prevent redundant renaming by adding `no-useless-rename` ([ff5c130](https://github.com/jimmy-guzman/eslint-config/commit/ff5c1306d161c6e253f27dbb4f4f593015ecfbe9))
+
+
+### Features
+
+* ✨ add type definitions for rules available ([66949d1](https://github.com/jimmy-guzman/eslint-config/commit/66949d1ad11346db9b61d8c0980bfc0773022c2e))
+* ✨ improve `curly` rule by adding consistency ([b464c37](https://github.com/jimmy-guzman/eslint-config/commit/b464c37de337d02e6178487cb6a1c03b29f78822))
+* ✨ remove `simple-import-sort` type stubs ([78a1ad0](https://github.com/jimmy-guzman/eslint-config/commit/78a1ad0eed2e01c95a745ca2501018ef5bedcdf3))
+
 # [1.5.0](https://github.com/jimmy-guzman/eslint-config/compare/v1.4.0...v1.5.0) (2024-04-13)
 
 
