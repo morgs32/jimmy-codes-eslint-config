@@ -1,3 +1,11 @@
+## [1.6.1](https://github.com/jimmy-guzman/eslint-config/compare/v1.6.0...v1.6.1) (2024-04-13)
+
+
+### Bug Fixes
+
+* 🐛 allow files under `.storybook` to be linted ([4a33b5f](https://github.com/jimmy-guzman/eslint-config/commit/4a33b5f36ff556533b1690de813b420e9fa2a7a0))
+* 🐛 ignore `playwright-report` from linting ([d0bf5b9](https://github.com/jimmy-guzman/eslint-config/commit/d0bf5b9b17a211a08f5dec54894fa92e18e52461))
+
 # [1.6.0](https://github.com/jimmy-guzman/eslint-config/compare/v1.5.0...v1.6.0) (2024-04-13)
 
 
