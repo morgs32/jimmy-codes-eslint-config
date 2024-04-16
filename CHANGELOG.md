@@ -1,3 +1,10 @@
+# [1.7.0](https://github.com/jimmy-guzman/eslint-config/compare/v1.6.1...v1.7.0) (2024-04-16)
+
+
+### Features
+
+* ✨ add `astro` support ([#19](https://github.com/jimmy-guzman/eslint-config/issues/19)) ([2c1ccda](https://github.com/jimmy-guzman/eslint-config/commit/2c1ccdad7b8e265fb3ec9e9bbc35a652a8f4db2f))
+
 ## [1.6.1](https://github.com/jimmy-guzman/eslint-config/compare/v1.6.0...v1.6.1) (2024-04-13)
 
 
