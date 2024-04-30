@@ -1,3 +1,10 @@
+# [1.8.0](https://github.com/jimmy-guzman/eslint-config/compare/v1.7.0...v1.8.0) (2024-04-30)
+
+
+### Features
+
+* ✨ bump `astro` plugin & parser to v1 ([#23](https://github.com/jimmy-guzman/eslint-config/issues/23)) ([ab4bf85](https://github.com/jimmy-guzman/eslint-config/commit/ab4bf85e990108df4be719d54cbed2476be6fc6b))
+
 # [1.7.0](https://github.com/jimmy-guzman/eslint-config/compare/v1.6.1...v1.7.0) (2024-04-16)
 
 
