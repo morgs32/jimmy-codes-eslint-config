@@ -1,3 +1,10 @@
+# [1.9.0](https://github.com/jimmy-guzman/eslint-config/compare/v1.8.0...v1.9.0) (2024-06-04)
+
+
+### Features
+
+* ✨ support `@testing-library/dom` v10 ([#24](https://github.com/jimmy-guzman/eslint-config/issues/24)) ([cb6ba2a](https://github.com/jimmy-guzman/eslint-config/commit/cb6ba2a4301714866018649d8a77e15b33dd4086))
+
 # [1.8.0](https://github.com/jimmy-guzman/eslint-config/compare/v1.7.0...v1.8.0) (2024-04-30)
 
 
