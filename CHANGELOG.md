@@ -1,3 +1,18 @@
+# [1.10.0](https://github.com/jimmy-guzman/eslint-config/compare/v1.9.0...v1.10.0) (2024-10-31)
+
+
+### Bug Fixes
+
+* 🐛 add missing `@typescript-eslint/parser` dep ([32f8abe](https://github.com/jimmy-guzman/eslint-config/commit/32f8abe61ab221a202bcabdcf3c5298b4c96092b))
+* 🐛 bump `eslint-plugin-import-x` to v4.4.0 ([9790b2f](https://github.com/jimmy-guzman/eslint-config/commit/9790b2f846c613dc6ff5713aa73653ce2e0c2444))
+* 🐛 bump `eslint-plugin-react-refresh` to v0.4.14 ([cb8d93a](https://github.com/jimmy-guzman/eslint-config/commit/cb8d93acdc0777577c62105e99c7936c50050b37))
+* 🐛 reference `TSESLint` to address missing types ([939c713](https://github.com/jimmy-guzman/eslint-config/commit/939c713772ab82dd028f2212d39dc8001d75c337))
+
+
+### Features
+
+* ✨ bump `globals` to v15.11.0 ([c6537e7](https://github.com/jimmy-guzman/eslint-config/commit/c6537e7460a4214b729bd8e8b0b5eebffae4fa49))
+
 # [1.9.0](https://github.com/jimmy-guzman/eslint-config/compare/v1.8.0...v1.9.0) (2024-06-04)
 
 
