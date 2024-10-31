@@ -1,3 +1,10 @@
+## [3.2.1](https://github.com/jimmy-guzman/eslint-config/compare/v3.2.0...v3.2.1) (2024-10-31)
+
+
+### Bug Fixes
+
+* 🐛 actually enforce separate type imports ([#34](https://github.com/jimmy-guzman/eslint-config/issues/34)) ([ceadc95](https://github.com/jimmy-guzman/eslint-config/commit/ceadc95c9b611a8c6f7109bc6dd3433d22eeed38))
+
 # [3.2.0](https://github.com/jimmy-guzman/eslint-config/compare/v3.1.0...v3.2.0) (2024-10-31)
 
 
