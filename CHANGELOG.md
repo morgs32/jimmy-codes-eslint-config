@@ -1,3 +1,10 @@
+# [1.11.0](https://github.com/jimmy-guzman/eslint-config/compare/v1.10.0...v1.11.0) (2024-10-31)
+
+
+### Features
+
+* ✨ add support for `node` v22 ([1e055af](https://github.com/jimmy-guzman/eslint-config/commit/1e055af9c318d91663c4b1e4721de5fdc7bc8c1e))
+
 # [1.10.0](https://github.com/jimmy-guzman/eslint-config/compare/v1.9.0...v1.10.0) (2024-10-31)
 
 
