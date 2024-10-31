@@ -1,3 +1,10 @@
+# [3.1.0](https://github.com/jimmy-guzman/eslint-config/compare/v3.0.0...v3.1.0) (2024-10-31)
+
+
+### Features
+
+* ✨ sort everything naturally with perfectionist ([#32](https://github.com/jimmy-guzman/eslint-config/issues/32)) ([b34356f](https://github.com/jimmy-guzman/eslint-config/commit/b34356f5ba4015a9fba59e1ba4c5d2dd0fabe3bb))
+
 # [3.0.0](https://github.com/jimmy-guzman/eslint-config/compare/v2.0.0...v3.0.0) (2024-10-31)
 
 
