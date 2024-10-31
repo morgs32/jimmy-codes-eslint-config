@@ -1,3 +1,15 @@
+# [3.2.0](https://github.com/jimmy-guzman/eslint-config/compare/v3.1.0...v3.2.0) (2024-10-31)
+
+
+### Bug Fixes
+
+* 🐛 include "@/**" as internal pattern for perfectionist ([24a2b88](https://github.com/jimmy-guzman/eslint-config/commit/24a2b88bbce3745821ee83235300051003765ffd))
+
+
+### Features
+
+* ✨ prefer seperate type imports & exports ([7ed2fd2](https://github.com/jimmy-guzman/eslint-config/commit/7ed2fd23d32c8cdc6da693f8cf6e04776bf6ae00))
+
 # [3.1.0](https://github.com/jimmy-guzman/eslint-config/compare/v3.0.0...v3.1.0) (2024-10-31)
 
 
