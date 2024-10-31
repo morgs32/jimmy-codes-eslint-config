@@ -1,3 +1,21 @@
+# [3.0.0](https://github.com/jimmy-guzman/eslint-config/compare/v2.0.0...v3.0.0) (2024-10-31)
+
+
+### Features
+
+* ✨ add the ability to extends ignores ([161293a](https://github.com/jimmy-guzman/eslint-config/commit/161293aab0bed48d0b2c0426b46c9fa46e4eb480))
+* ✨ enable auto detection by default ([52a6f4b](https://github.com/jimmy-guzman/eslint-config/commit/52a6f4bbccb41a406bf8cdeb2461423c83487759))
+* ✨ support `eslint` v9 ([3e40831](https://github.com/jimmy-guzman/eslint-config/commit/3e4083139eb413eb3f1fec7f0906fadbf2fede40))
+* ✨ you can pass additional configs after the 1st argument ([11e521b](https://github.com/jimmy-guzman/eslint-config/commit/11e521b32b9c59dbd4b83b650007ed77417921fa))
+
+
+### BREAKING CHANGES
+
+* 💥 `autoDetect` is now `true` by default
+* 💥 `overrides` has been renamed to `configs`
+* 💥 drop support for `eslint` v8 and require at least
+v9.10.0
+
 # [2.0.0](https://github.com/jimmy-guzman/eslint-config/compare/v1.12.0...v2.0.0) (2024-10-31)
 
 
