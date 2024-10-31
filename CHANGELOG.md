@@ -1,3 +1,21 @@
+# [2.0.0](https://github.com/jimmy-guzman/eslint-config/compare/v1.12.0...v2.0.0) (2024-10-31)
+
+
+### Bug Fixes
+
+* 🐛 normalize package.repository.url ([be1e573](https://github.com/jimmy-guzman/eslint-config/commit/be1e573a86fdde93158e68eb6c4a0bde5cec836c))
+* 🐛 prevent couldn't find exhaustive-deps in @tanstack/query ([8dd01b5](https://github.com/jimmy-guzman/eslint-config/commit/8dd01b5afadf053940c506baf4577c4c4df963a4))
+
+
+### Features
+
+* ✨ bump `typescript-eslint` to v8 ([5937d40](https://github.com/jimmy-guzman/eslint-config/commit/5937d40868bd6508d65fbf70605a403067bb6833))
+
+
+### BREAKING CHANGES
+
+* 💥 multiple rules are now part of recommended
+
 # [1.12.0](https://github.com/jimmy-guzman/eslint-config/compare/v1.11.0...v1.12.0) (2024-10-31)
 
 
