@@ -1,3 +1,10 @@
+## [3.2.3](https://github.com/jimmy-guzman/eslint-config/compare/v3.2.2...v3.2.3) (2024-11-01)
+
+
+### Bug Fixes
+
+* 🐛 use correct types for `@eslint/js` ([#36](https://github.com/jimmy-guzman/eslint-config/issues/36)) ([de05d47](https://github.com/jimmy-guzman/eslint-config/commit/de05d47f7817319f7ee2eaa07878803f9030da32))
+
 ## [3.2.2](https://github.com/jimmy-guzman/eslint-config/compare/v3.2.1...v3.2.2) (2024-11-01)
 
 
