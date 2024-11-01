@@ -1,3 +1,10 @@
+# [3.3.0](https://github.com/jimmy-guzman/eslint-config/compare/v3.2.4...v3.3.0) (2024-11-01)
+
+
+### Features
+
+* ✨ add `eslint-plugin-unicorn` rules ([#38](https://github.com/jimmy-guzman/eslint-config/issues/38)) ([6473700](https://github.com/jimmy-guzman/eslint-config/commit/64737001995ae5e175ab311e1fe678596ce638d8))
+
 ## [3.2.4](https://github.com/jimmy-guzman/eslint-config/compare/v3.2.3...v3.2.4) (2024-11-01)
 
 
