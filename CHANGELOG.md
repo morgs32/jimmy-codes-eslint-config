@@ -1,3 +1,10 @@
+## [3.2.2](https://github.com/jimmy-guzman/eslint-config/compare/v3.2.1...v3.2.2) (2024-11-01)
+
+
+### Bug Fixes
+
+* 🐛 remove duplicate TypeScript configs ([#35](https://github.com/jimmy-guzman/eslint-config/issues/35)) ([7b319d2](https://github.com/jimmy-guzman/eslint-config/commit/7b319d2c8d90a2d7fe97e1117a7370dd4f434991))
+
 ## [3.2.1](https://github.com/jimmy-guzman/eslint-config/compare/v3.2.0...v3.2.1) (2024-10-31)
 
 
