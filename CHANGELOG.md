@@ -1,3 +1,10 @@
+## [3.2.4](https://github.com/jimmy-guzman/eslint-config/compare/v3.2.3...v3.2.4) (2024-11-01)
+
+
+### Bug Fixes
+
+* 🐛 have better support for "prefer-node-protocol" ([cc27e4f](https://github.com/jimmy-guzman/eslint-config/commit/cc27e4f1359d9c4c9c9d8e0a402d23c880507f51))
+
 ## [3.2.3](https://github.com/jimmy-guzman/eslint-config/compare/v3.2.2...v3.2.3) (2024-11-01)
 
 
