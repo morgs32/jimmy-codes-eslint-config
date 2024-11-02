@@ -1,3 +1,10 @@
+## [3.4.2](https://github.com/jimmy-guzman/eslint-config/compare/v3.4.1...v3.4.2) (2024-11-02)
+
+
+### Bug Fixes
+
+* 🐛 favor `reportUnusedDisableDirectives` instead ([#41](https://github.com/jimmy-guzman/eslint-config/issues/41)) ([eb17660](https://github.com/jimmy-guzman/eslint-config/commit/eb1766052be369b52f1a0e67528dd994eae4d616))
+
 ## [3.4.1](https://github.com/jimmy-guzman/eslint-config/compare/v3.4.0...v3.4.1) (2024-11-02)
 
 
