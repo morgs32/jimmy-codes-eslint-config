@@ -1,3 +1,10 @@
+## [3.4.1](https://github.com/jimmy-guzman/eslint-config/compare/v3.4.0...v3.4.1) (2024-11-02)
+
+
+### Bug Fixes
+
+* 🐛 rename "disabled" config to "prettier" ([5eea59b](https://github.com/jimmy-guzman/eslint-config/commit/5eea59bbeb159bf7ac180e7df65e2f20191fbe40))
+
 # [3.4.0](https://github.com/jimmy-guzman/eslint-config/compare/v3.3.0...v3.4.0) (2024-11-02)
 
 
