@@ -1,3 +1,15 @@
+# [3.4.0](https://github.com/jimmy-guzman/eslint-config/compare/v3.3.0...v3.4.0) (2024-11-02)
+
+
+### Bug Fixes
+
+* 🐛 ignore `**/*.gen.*` generated files ([b4a524a](https://github.com/jimmy-guzman/eslint-config/commit/b4a524a2354365503713651406083e52e84b308f))
+
+
+### Features
+
+* ✨ add `eslint-comments` rules ([268d6d8](https://github.com/jimmy-guzman/eslint-config/commit/268d6d8158f9668256e6782dfd31fe9b25054f14))
+
 # [3.3.0](https://github.com/jimmy-guzman/eslint-config/compare/v3.2.4...v3.3.0) (2024-11-01)
 
 
