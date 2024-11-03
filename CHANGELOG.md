@@ -1,3 +1,11 @@
+# [3.5.0](https://github.com/jimmy-guzman/eslint-config/compare/v3.4.2...v3.5.0) (2024-11-03)
+
+
+### Features
+
+* ✨ enable `react/forward-ref-uses-ref` ([e7d8318](https://github.com/jimmy-guzman/eslint-config/commit/e7d83182a39f665b90419371c3470ef547825bae))
+* ✨ enable `react/no-object-type-as-default-prop` ([af90a75](https://github.com/jimmy-guzman/eslint-config/commit/af90a75632d09fd80b845970b3709e9202276ab2))
+
 ## [3.4.2](https://github.com/jimmy-guzman/eslint-config/compare/v3.4.1...v3.4.2) (2024-11-02)
 
 
