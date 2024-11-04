@@ -1,3 +1,20 @@
+# [3.6.0](https://github.com/jimmy-guzman/eslint-config/compare/v3.5.0...v3.6.0) (2024-11-04)
+
+
+### Bug Fixes
+
+* 🐛 allow `vitest`'s describe, expect and it ([8109cf9](https://github.com/jimmy-guzman/eslint-config/commit/8109cf9d1ae068e4f85b705e3abd26300d2ca4c8))
+* 🐛 include `vinxi`'s outputs in `ignores` ([8bf8c9d](https://github.com/jimmy-guzman/eslint-config/commit/8bf8c9d440f88b29a38b07acfc7d8f9e765e2e20))
+
+
+### Features
+
+* ✨ bump `globals` to v15.12.0 ([bf8f6ca](https://github.com/jimmy-guzman/eslint-config/commit/bf8f6ca7ccfcc8fcc66372c5b111886964491031))
+* ✨ bump `typescript-eslint` to v8.13.0 ([e527114](https://github.com/jimmy-guzman/eslint-config/commit/e527114dc9d8528cb4028e02a53dfb4a1a1e2c6c))
+* ✨ change `curly` to "all" ([3133ce9](https://github.com/jimmy-guzman/eslint-config/commit/3133ce9c12ff164fe625122080f00d197df8c8cc))
+* ✨ enable `import-x/extensions` rule ([e493f6c](https://github.com/jimmy-guzman/eslint-config/commit/e493f6cd2bbf7a66afc60de6905d008259a90525))
+* ✨ make `imports` recommended rules all errors ([2d51c8b](https://github.com/jimmy-guzman/eslint-config/commit/2d51c8b4015cf3aecb89dc7dbea807104d9b562c))
+
 # [3.5.0](https://github.com/jimmy-guzman/eslint-config/compare/v3.4.2...v3.5.0) (2024-11-03)
 
 
