@@ -1,3 +1,10 @@
+## [3.6.2](https://github.com/jimmy-guzman/eslint-config/compare/v3.6.1...v3.6.2) (2024-11-05)
+
+
+### Bug Fixes
+
+* 🐛 avoid stubing types for `eslint-plugin-jest` ([#64](https://github.com/jimmy-guzman/eslint-config/issues/64)) ([e644b68](https://github.com/jimmy-guzman/eslint-config/commit/e644b6809d23f6bc52033d4b38d4ca3695d9f98a))
+
 ## [3.6.1](https://github.com/jimmy-guzman/eslint-config/compare/v3.6.0...v3.6.1) (2024-11-05)
 
 
