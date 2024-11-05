@@ -1,3 +1,10 @@
+## [3.6.1](https://github.com/jimmy-guzman/eslint-config/compare/v3.6.0...v3.6.1) (2024-11-05)
+
+
+### Bug Fixes
+
+* 🐛 ignore SVGs in some imports rules ([#62](https://github.com/jimmy-guzman/eslint-config/issues/62)) ([542d009](https://github.com/jimmy-guzman/eslint-config/commit/542d009b77fc891c49f343539573050dacca6274))
+
 # [3.6.0](https://github.com/jimmy-guzman/eslint-config/compare/v3.5.0...v3.6.0) (2024-11-04)
 
 
