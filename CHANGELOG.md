@@ -1,3 +1,10 @@
+## [3.7.1](https://github.com/jimmy-guzman/eslint-config/compare/v3.7.0...v3.7.1) (2024-11-07)
+
+
+### Bug Fixes
+
+* 🐛 disable `typescript-eslint/no-unsafe-` in tests ([8369d08](https://github.com/jimmy-guzman/eslint-config/commit/8369d08ab07118626cb021cd757ee7a8214c76e4))
+
 # [3.7.0](https://github.com/jimmy-guzman/eslint-config/compare/v3.6.2...v3.7.0) (2024-11-06)
 
 
