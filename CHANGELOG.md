@@ -1,3 +1,10 @@
+## [3.7.2](https://github.com/jimmy-guzman/eslint-config/compare/v3.7.1...v3.7.2) (2024-11-07)
+
+
+### Bug Fixes
+
+* 🐛 bump `eslint-plugin-n` to v17.13.1 ([#70](https://github.com/jimmy-guzman/eslint-config/issues/70)) ([6fd0b24](https://github.com/jimmy-guzman/eslint-config/commit/6fd0b249170621fd39df1b49154b1e53766260b2))
+
 ## [3.7.1](https://github.com/jimmy-guzman/eslint-config/compare/v3.7.0...v3.7.1) (2024-11-07)
 
 
