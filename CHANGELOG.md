@@ -1,3 +1,10 @@
+## [3.8.2](https://github.com/jimmy-guzman/eslint-config/compare/v3.8.1...v3.8.2) (2024-11-08)
+
+
+### Bug Fixes
+
+* 🐛 remove imports patch from previous plugin ([fd5fffa](https://github.com/jimmy-guzman/eslint-config/commit/fd5fffa977df6676e2a47a34369d1b8028b2ad8c))
+
 ## [3.8.1](https://github.com/jimmy-guzman/eslint-config/compare/v3.8.0...v3.8.1) (2024-11-08)
 
 
