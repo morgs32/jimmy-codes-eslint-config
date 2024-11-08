@@ -1,3 +1,11 @@
+# [3.10.0](https://github.com/jimmy-guzman/eslint-config/compare/v3.9.0...v3.10.0) (2024-11-08)
+
+
+### Features
+
+* ✨ dynamically load `@tanstack/query` plugin ([c804032](https://github.com/jimmy-guzman/eslint-config/commit/c8040324ba37455282b019437e92051317f8bd1d))
+* ✨ dynamically load `react` & related plugins ([4cf373d](https://github.com/jimmy-guzman/eslint-config/commit/4cf373dce93821a72d9318f722a2f02d59bf1d5d))
+
 # [3.9.0](https://github.com/jimmy-guzman/eslint-config/compare/v3.8.2...v3.9.0) (2024-11-08)
 
 
