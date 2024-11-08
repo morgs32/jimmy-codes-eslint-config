@@ -1,3 +1,11 @@
+## [3.8.1](https://github.com/jimmy-guzman/eslint-config/compare/v3.8.0...v3.8.1) (2024-11-08)
+
+
+### Bug Fixes
+
+* 🐛 bump `eslint-plugin-testing-library` to v7.0.0-beta.5 ([b1afc32](https://github.com/jimmy-guzman/eslint-config/commit/b1afc326b0f9797ecb18b69f400b925103c3bb89))
+* 🐛 use typescript-eslint's `no-use-before-define` ([7b4f0cc](https://github.com/jimmy-guzman/eslint-config/commit/7b4f0cca0fc11bbcea5630e581be323c23269ee4))
+
 # [3.8.0](https://github.com/jimmy-guzman/eslint-config/compare/v3.7.2...v3.8.0) (2024-11-08)
 
 
