@@ -1,3 +1,10 @@
+# [3.9.0](https://github.com/jimmy-guzman/eslint-config/compare/v3.8.2...v3.9.0) (2024-11-08)
+
+
+### Features
+
+* ✨ dynamically import `astro` plugin and parser ([9b0ab03](https://github.com/jimmy-guzman/eslint-config/commit/9b0ab03c82727efb630d75744cc0eb259d636503))
+
 ## [3.8.2](https://github.com/jimmy-guzman/eslint-config/compare/v3.8.1...v3.8.2) (2024-11-08)
 
 
