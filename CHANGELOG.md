@@ -1,3 +1,15 @@
+# [3.8.0](https://github.com/jimmy-guzman/eslint-config/compare/v3.7.2...v3.8.0) (2024-11-08)
+
+
+### Features
+
+* ✨ enable `no-self-compare` rule ([0359507](https://github.com/jimmy-guzman/eslint-config/commit/0359507f7c5294ac65d3fde5dc26bfba0a33cf1b))
+* ✨ enable `no-template-curly-in-string` rule ([0bb5e96](https://github.com/jimmy-guzman/eslint-config/commit/0bb5e96855d457cd9afca87cbd3e4920911e188e))
+* ✨ enable `no-unmodified-loop-condition` rule ([f55b9e8](https://github.com/jimmy-guzman/eslint-config/commit/f55b9e8f73be9b3f804ee5d94f27415ac73fc71a))
+* ✨ enable `no-unreachable-loop` rule ([0083f43](https://github.com/jimmy-guzman/eslint-config/commit/0083f432166a1f6a4f59a2b6f136fd4c3d9014c4))
+* ✨ enable `no-use-before-define` rule ([a759cb0](https://github.com/jimmy-guzman/eslint-config/commit/a759cb06c992aed3b14d351a9841d7fdee21a6d5))
+* ✨ rename `base` config to `javascript` ([96d1a56](https://github.com/jimmy-guzman/eslint-config/commit/96d1a56ce61eaf48fe52110be869c2e5f6951c8b))
+
 ## [3.7.2](https://github.com/jimmy-guzman/eslint-config/compare/v3.7.1...v3.7.2) (2024-11-07)
 
 
