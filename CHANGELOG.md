@@ -1,3 +1,11 @@
+# [3.11.0](https://github.com/jimmy-guzman/eslint-config/compare/v3.10.0...v3.11.0) (2024-11-09)
+
+
+### Features
+
+* ✨ dynamically import `jest` plugin ([409d9ee](https://github.com/jimmy-guzman/eslint-config/commit/409d9ee88ca7569c11f4252feb394dab6896af2d))
+* ✨ dynamically import testing library plugin ([49e9ff5](https://github.com/jimmy-guzman/eslint-config/commit/49e9ff5e30ad0e0d421fb5a2b957b65056824aed))
+
 # [3.10.0](https://github.com/jimmy-guzman/eslint-config/compare/v3.9.0...v3.10.0) (2024-11-08)
 
 
