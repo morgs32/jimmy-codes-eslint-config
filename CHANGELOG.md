@@ -1,3 +1,10 @@
+## [3.11.1](https://github.com/jimmy-guzman/eslint-config/compare/v3.11.0...v3.11.1) (2024-11-09)
+
+
+### Bug Fixes
+
+* 🐛 add missing styles to import sorting ([#77](https://github.com/jimmy-guzman/eslint-config/issues/77)) ([1f69fa8](https://github.com/jimmy-guzman/eslint-config/commit/1f69fa8e0f4f9f6e160f502da8e6fe788306438e))
+
 # [3.11.0](https://github.com/jimmy-guzman/eslint-config/compare/v3.10.0...v3.11.0) (2024-11-09)
 
 
