@@ -1,3 +1,10 @@
+## [3.11.2](https://github.com/jimmy-guzman/eslint-config/compare/v3.11.1...v3.11.2) (2024-11-13)
+
+
+### Bug Fixes
+
+* 🐛 emulate typescript w/ @typescript-eslint/no-unused-vars ([#80](https://github.com/jimmy-guzman/eslint-config/issues/80)) ([652b7c7](https://github.com/jimmy-guzman/eslint-config/commit/652b7c7b383668a81a87cd2d92c6ad3021f7c7e6)), closes [#78](https://github.com/jimmy-guzman/eslint-config/issues/78)
+
 ## [3.11.1](https://github.com/jimmy-guzman/eslint-config/compare/v3.11.0...v3.11.1) (2024-11-09)
 
 
