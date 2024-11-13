@@ -1,3 +1,17 @@
+# [3.12.0](https://github.com/jimmy-guzman/eslint-config/compare/v3.11.2...v3.12.0) (2024-11-13)
+
+
+### Bug Fixes
+
+* 🐛 bump `@tanstack/eslint-plugin-query` to v5.60.1 ([0d4630a](https://github.com/jimmy-guzman/eslint-config/commit/0d4630a810c592053bf3b37383581a41a5a77fb3))
+* 🐛 bump `eslint-plugin-import-x` to v4.4.2 ([0859ce5](https://github.com/jimmy-guzman/eslint-config/commit/0859ce5f555ee8b7a5c65f4a102d5408c80ff889))
+
+
+### Features
+
+* ✨ bump `astro-eslint-parser` to v1.1.0 ([a875136](https://github.com/jimmy-guzman/eslint-config/commit/a87513666758314b70eccdfd38852cf9b111b4a6))
+* ✨ bump `typescript-eslint` to v8.14.0 ([277b19d](https://github.com/jimmy-guzman/eslint-config/commit/277b19dab987d9e714c94369c28fd7bc28917c18))
+
 ## [3.11.2](https://github.com/jimmy-guzman/eslint-config/compare/v3.11.1...v3.11.2) (2024-11-13)
 
 
