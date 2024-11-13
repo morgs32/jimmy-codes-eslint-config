@@ -1,3 +1,10 @@
+# [3.13.0](https://github.com/jimmy-guzman/eslint-config/compare/v3.12.0...v3.13.0) (2024-11-13)
+
+
+### Features
+
+* ✨ leverage `typescript-eslint`'s new `projectService` ([2ec2184](https://github.com/jimmy-guzman/eslint-config/commit/2ec21845edc2b17bd811da86ef6ced510898c441)), closes [#59](https://github.com/jimmy-guzman/eslint-config/issues/59)
+
 # [3.12.0](https://github.com/jimmy-guzman/eslint-config/compare/v3.11.2...v3.12.0) (2024-11-13)
 
 
