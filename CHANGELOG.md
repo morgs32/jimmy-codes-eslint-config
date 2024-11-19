@@ -1,3 +1,10 @@
+## [3.14.1](https://github.com/jimmy-guzman/eslint-config/compare/v3.14.0...v3.14.1) (2024-11-19)
+
+
+### Bug Fixes
+
+* 🐛 support typescript & unicorn rules on eslint v9.15.0 ([ccd99d1](https://github.com/jimmy-guzman/eslint-config/commit/ccd99d1c6bb1cdc41518f5f87925071f2ec77eb5))
+
 # [3.14.0](https://github.com/jimmy-guzman/eslint-config/compare/v3.13.0...v3.14.0) (2024-11-18)
 
 
