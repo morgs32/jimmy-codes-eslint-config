@@ -1,3 +1,10 @@
+## [3.14.2](https://github.com/jimmy-guzman/eslint-config/compare/v3.14.1...v3.14.2) (2024-11-19)
+
+
+### Bug Fixes
+
+* 🐛 stop eslint-plugin-testing-library peer warnings ([#92](https://github.com/jimmy-guzman/eslint-config/issues/92)) ([e6644df](https://github.com/jimmy-guzman/eslint-config/commit/e6644df1194340fbac59ead4b81b0a7ea97c5701))
+
 ## [3.14.1](https://github.com/jimmy-guzman/eslint-config/compare/v3.14.0...v3.14.1) (2024-11-19)
 
 
