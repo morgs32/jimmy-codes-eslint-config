@@ -1,3 +1,10 @@
+# [3.15.0](https://github.com/jimmy-guzman/eslint-config/compare/v3.14.2...v3.15.0) (2024-11-20)
+
+
+### Features
+
+* ✨ bump `eslint-plugin-perfectionist` to v4 ([#93](https://github.com/jimmy-guzman/eslint-config/issues/93)) ([bd8691a](https://github.com/jimmy-guzman/eslint-config/commit/bd8691abea81aca23fefde48ad1f1499bf7e6366)), closes [#91](https://github.com/jimmy-guzman/eslint-config/issues/91)
+
 ## [3.14.2](https://github.com/jimmy-guzman/eslint-config/compare/v3.14.1...v3.14.2) (2024-11-19)
 
 
