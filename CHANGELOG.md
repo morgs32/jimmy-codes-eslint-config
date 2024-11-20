@@ -1,3 +1,10 @@
+# [3.16.0](https://github.com/jimmy-guzman/eslint-config/compare/v3.15.0...v3.16.0) (2024-11-20)
+
+
+### Features
+
+* ✨ add `eslint-plugin-regexp` rules ([#94](https://github.com/jimmy-guzman/eslint-config/issues/94)) ([cfecafb](https://github.com/jimmy-guzman/eslint-config/commit/cfecafb455c28d2c421d80a399d081d9e5e679f6)), closes [#89](https://github.com/jimmy-guzman/eslint-config/issues/89)
+
 # [3.15.0](https://github.com/jimmy-guzman/eslint-config/compare/v3.14.2...v3.15.0) (2024-11-20)
 
 
