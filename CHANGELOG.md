@@ -1,3 +1,18 @@
+# [3.17.0](https://github.com/jimmy-guzman/eslint-config/compare/v3.16.0...v3.17.0) (2024-11-22)
+
+
+### Bug Fixes
+
+* 🐛 bump `local-pkg` and `eslint-plugin-import-x` ([e34a251](https://github.com/jimmy-guzman/eslint-config/commit/e34a251bef894859b2895f5c30c917d3e46b5fb5))
+* 🐛 dynamically import jest plugin for rules as well ([378b5d2](https://github.com/jimmy-guzman/eslint-config/commit/378b5d205d1792595405984a018b8ff725d5fcd8))
+* 🐛 prevent creating duplicate jest configs ([70973da](https://github.com/jimmy-guzman/eslint-config/commit/70973da3943e23f55f75422d3b3b284f6f02dd90))
+
+
+### Features
+
+* ✨ bump `eslint-plugin-n` to v17.14.0 ([701b6b7](https://github.com/jimmy-guzman/eslint-config/commit/701b6b722e98d9f795776df973a865143e6e92ad))
+* ✨ simplify testing configs names by avoiding nesting ([a2ffd1e](https://github.com/jimmy-guzman/eslint-config/commit/a2ffd1e63a07bb99ef4267e61613c50f03d1a3c0))
+
 # [3.16.0](https://github.com/jimmy-guzman/eslint-config/compare/v3.15.0...v3.16.0) (2024-11-20)
 
 
