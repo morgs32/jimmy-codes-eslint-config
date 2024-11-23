@@ -1,3 +1,12 @@
+## [3.17.3](https://github.com/jimmy-guzman/eslint-config/compare/v3.17.2...v3.17.3) (2024-11-23)
+
+
+### Bug Fixes
+
+* 🐛 don't apply jest,vitest & testing-library to e2e files ([3ecd068](https://github.com/jimmy-guzman/eslint-config/commit/3ecd0681ac84475cfdbee4a1daa6dbe5bc175fe3))
+* 🐛 don't nest testing-library name under testing ([7980576](https://github.com/jimmy-guzman/eslint-config/commit/79805762aa73486744de2bb4b787faeee45c838f))
+* 🐛 use flat config from `eslint-plugin-testing-library` ([054f581](https://github.com/jimmy-guzman/eslint-config/commit/054f5817ddf3c32b38cbd1d18636a753916b8f79))
+
 ## [3.17.2](https://github.com/jimmy-guzman/eslint-config/compare/v3.17.1...v3.17.2) (2024-11-23)
 
 
