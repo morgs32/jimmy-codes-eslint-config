@@ -1,3 +1,10 @@
+## [3.17.2](https://github.com/jimmy-guzman/eslint-config/compare/v3.17.1...v3.17.2) (2024-11-23)
+
+
+### Bug Fixes
+
+* 🐛 e2e config should override jest config ([#97](https://github.com/jimmy-guzman/eslint-config/issues/97)) ([7ddd744](https://github.com/jimmy-guzman/eslint-config/commit/7ddd7446e33b319b65670d2f9c3b81016cae881f))
+
 ## [3.17.1](https://github.com/jimmy-guzman/eslint-config/compare/v3.17.0...v3.17.1) (2024-11-23)
 
 
