@@ -1,3 +1,10 @@
+## [3.17.1](https://github.com/jimmy-guzman/eslint-config/compare/v3.17.0...v3.17.1) (2024-11-23)
+
+
+### Bug Fixes
+
+* 🐛 make `jest/expect-expect` an error instead of warn ([19ba181](https://github.com/jimmy-guzman/eslint-config/commit/19ba181cbb5ef24a8c121213757d3b359b778840))
+
 # [3.17.0](https://github.com/jimmy-guzman/eslint-config/compare/v3.16.0...v3.17.0) (2024-11-22)
 
 
