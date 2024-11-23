@@ -1,3 +1,10 @@
+# [3.18.0](https://github.com/jimmy-guzman/eslint-config/compare/v3.17.3...v3.18.0) (2024-11-23)
+
+
+### Features
+
+* ✨ add `eslint-plugin-playwright` rules ([#99](https://github.com/jimmy-guzman/eslint-config/issues/99)) ([7dc8495](https://github.com/jimmy-guzman/eslint-config/commit/7dc8495f32269942efc88e3152a1091c4f0a4fc6)), closes [#98](https://github.com/jimmy-guzman/eslint-config/issues/98)
+
 ## [3.17.3](https://github.com/jimmy-guzman/eslint-config/compare/v3.17.2...v3.17.3) (2024-11-23)
 
 
