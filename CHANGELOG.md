@@ -1,3 +1,16 @@
+# [3.19.0](https://github.com/jimmy-guzman/eslint-config/compare/v3.18.0...v3.19.0) (2024-11-25)
+
+
+### Bug Fixes
+
+* 🐛 bump `@tanstack/eslint-plugin-query` to v5.61.3 ([94353a8](https://github.com/jimmy-guzman/eslint-config/commit/94353a8ca1c1242088c0fa73e99c201fc9348e32))
+
+
+### Features
+
+* ✨ bump `eslint-plugin-perfectionist` to v4.1.2 ([428f401](https://github.com/jimmy-guzman/eslint-config/commit/428f40132b70886adb050b6e0566bd309e56b3cb))
+* ✨ support `typescript` v5.7 ([0f0f95a](https://github.com/jimmy-guzman/eslint-config/commit/0f0f95aa2833deb7c0b287b28c8abde9ddde55bb))
+
 # [3.18.0](https://github.com/jimmy-guzman/eslint-config/compare/v3.17.3...v3.18.0) (2024-11-23)
 
 
