@@ -1,3 +1,10 @@
+# [3.20.0](https://github.com/jimmy-guzman/eslint-config/compare/v3.19.0...v3.20.0) (2024-11-26)
+
+
+### Features
+
+* ✨ make each plugin it's own config item ([#102](https://github.com/jimmy-guzman/eslint-config/issues/102)) ([6d8ea49](https://github.com/jimmy-guzman/eslint-config/commit/6d8ea49ac8f08b718c148f0221fb779ec64bea9a))
+
 # [3.19.0](https://github.com/jimmy-guzman/eslint-config/compare/v3.18.0...v3.19.0) (2024-11-25)
 
 
