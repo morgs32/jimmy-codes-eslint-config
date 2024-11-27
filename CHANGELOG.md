@@ -1,3 +1,10 @@
+# [3.22.0](https://github.com/jimmy-guzman/eslint-config/compare/v3.21.0...v3.22.0) (2024-11-27)
+
+
+### Features
+
+* ✨ add `eslint-plugin-react-compiler` rules ([#108](https://github.com/jimmy-guzman/eslint-config/issues/108)) ([15ce7c5](https://github.com/jimmy-guzman/eslint-config/commit/15ce7c5789a612e3f89f87feb4d066987a55e533)), closes [#107](https://github.com/jimmy-guzman/eslint-config/issues/107)
+
 # [3.21.0](https://github.com/jimmy-guzman/eslint-config/compare/v3.20.0...v3.21.0) (2024-11-27)
 
 
