@@ -1,3 +1,10 @@
+# [3.21.0](https://github.com/jimmy-guzman/eslint-config/compare/v3.20.0...v3.21.0) (2024-11-27)
+
+
+### Features
+
+* ✨ add `eslint-plugin-storybook` rules ([#106](https://github.com/jimmy-guzman/eslint-config/issues/106)) ([c8f476d](https://github.com/jimmy-guzman/eslint-config/commit/c8f476dad9e9e7667ed4f21b04c5ec50bf41cffa)), closes [#105](https://github.com/jimmy-guzman/eslint-config/issues/105)
+
 # [3.20.0](https://github.com/jimmy-guzman/eslint-config/compare/v3.19.0...v3.20.0) (2024-11-26)
 
 
