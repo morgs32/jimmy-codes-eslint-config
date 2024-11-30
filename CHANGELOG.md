@@ -1,3 +1,10 @@
+## [3.22.1](https://github.com/jimmy-guzman/eslint-config/compare/v3.22.0...v3.22.1) (2024-11-30)
+
+
+### Bug Fixes
+
+* 🐛 bump `@tanstack/eslint-plugin-query` to v5.61.6 ([#110](https://github.com/jimmy-guzman/eslint-config/issues/110)) ([c76670c](https://github.com/jimmy-guzman/eslint-config/commit/c76670c7b80f1bf2d90fa9c656bf82c166de35c2))
+
 # [3.22.0](https://github.com/jimmy-guzman/eslint-config/compare/v3.21.0...v3.22.0) (2024-11-27)
 
 
