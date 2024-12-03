@@ -1,3 +1,10 @@
+# [3.25.0](https://github.com/jimmy-guzman/eslint-config/compare/v3.24.0...v3.25.0) (2024-12-03)
+
+
+### Features
+
+* ✨ add recommended Next.js rules ([#114](https://github.com/jimmy-guzman/eslint-config/issues/114)) ([825d6ba](https://github.com/jimmy-guzman/eslint-config/commit/825d6ba7b5c5732c0de21f945d37c1db0b7f855e))
+
 # [3.24.0](https://github.com/jimmy-guzman/eslint-config/compare/v3.23.0...v3.24.0) (2024-12-03)
 
 
