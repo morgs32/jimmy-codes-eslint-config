@@ -1,3 +1,12 @@
+## [3.22.2](https://github.com/jimmy-guzman/eslint-config/compare/v3.22.1...v3.22.2) (2024-12-03)
+
+
+### Bug Fixes
+
+* 🐛 only enable react refresh allowConstantExport for vite ([1fb23f7](https://github.com/jimmy-guzman/eslint-config/commit/1fb23f747284dc7b621eb95c9a23aeed2c1fde3f))
+* 🐛 set `allowExportNames` for react-refresh & nextjs ([957e5af](https://github.com/jimmy-guzman/eslint-config/commit/957e5af7425baaf754bae06892e218e94e2d5061))
+* 🐛 use `eslint-plugin-react-refresh` types ([020f0c1](https://github.com/jimmy-guzman/eslint-config/commit/020f0c1088950f8f23f156cf8a2b3acd7a7a3f81))
+
 ## [3.22.1](https://github.com/jimmy-guzman/eslint-config/compare/v3.22.0...v3.22.1) (2024-11-30)
 
 
