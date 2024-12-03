@@ -1,3 +1,18 @@
+# [3.23.0](https://github.com/jimmy-guzman/eslint-config/compare/v3.22.2...v3.23.0) (2024-12-03)
+
+
+### Bug Fixes
+
+* 🐛 bump `@tanstack/eslint-plugin-query` to v5.62.1 ([0f33be3](https://github.com/jimmy-guzman/eslint-config/commit/0f33be30a637d3cb4d1d9df3ef2265e5d09f5676))
+
+
+### Features
+
+* ✨ add `overrides` option, deprecate `configs` ([bf84d3f](https://github.com/jimmy-guzman/eslint-config/commit/bf84d3f59c9143e80fecfa5e18c1778f85c00e10))
+* ✨ bump `@eslint/js` to v9.16.0 ([eb3446c](https://github.com/jimmy-guzman/eslint-config/commit/eb3446cc45085acbfd7aba96328176ae97b11b04))
+* ✨ bump `globals` to v15.13.0 ([da25d15](https://github.com/jimmy-guzman/eslint-config/commit/da25d15fe6a1eb79f5590e57cd08a2a3d99e1ba3))
+* ✨ bump `typescript-eslint` to v8.17.0 ([27c5112](https://github.com/jimmy-guzman/eslint-config/commit/27c511262ddc904ead82019a573b484434872843))
+
 ## [3.22.2](https://github.com/jimmy-guzman/eslint-config/compare/v3.22.1...v3.22.2) (2024-12-03)
 
 
