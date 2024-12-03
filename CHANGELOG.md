@@ -1,3 +1,10 @@
+# [3.24.0](https://github.com/jimmy-guzman/eslint-config/compare/v3.23.0...v3.24.0) (2024-12-03)
+
+
+### Features
+
+* ✨ add Next.js support ([#113](https://github.com/jimmy-guzman/eslint-config/issues/113)) ([b7e60cd](https://github.com/jimmy-guzman/eslint-config/commit/b7e60cd2d19715e15738d901e73907e4a6555fff))
+
 # [3.23.0](https://github.com/jimmy-guzman/eslint-config/compare/v3.22.2...v3.23.0) (2024-12-03)
 
 
