@@ -1,3 +1,11 @@
+# [3.26.0](https://github.com/jimmy-guzman/eslint-config/compare/v3.25.0...v3.26.0) (2024-12-06)
+
+
+### Features
+
+* ✨ bump `eslint-plugin-perfectionist` to v4.2.0 ([2adf903](https://github.com/jimmy-guzman/eslint-config/commit/2adf9034aff272dc28dd6a112055cd74baf10473))
+* ✨ use `eslint-plugin-import-x`'s new v3 resolver ([05e59c4](https://github.com/jimmy-guzman/eslint-config/commit/05e59c45f2bde8c96bdc29c0981cb2a3555aa72b))
+
 # [3.25.0](https://github.com/jimmy-guzman/eslint-config/compare/v3.24.0...v3.25.0) (2024-12-03)
 
 
