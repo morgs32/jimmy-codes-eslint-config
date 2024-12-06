@@ -1,3 +1,10 @@
+## [3.27.1](https://github.com/jimmy-guzman/eslint-config/compare/v3.27.0...v3.27.1) (2024-12-06)
+
+
+### Bug Fixes
+
+* 🐛 bring back missing e2e ignoring to vitest config ([#116](https://github.com/jimmy-guzman/eslint-config/issues/116)) ([ef1d66d](https://github.com/jimmy-guzman/eslint-config/commit/ef1d66d0f3f88d78e7fe2a0a602105167d551da7))
+
 # [3.27.0](https://github.com/jimmy-guzman/eslint-config/compare/v3.26.0...v3.27.0) (2024-12-06)
 
 
