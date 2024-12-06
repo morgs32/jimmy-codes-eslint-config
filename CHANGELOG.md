@@ -1,3 +1,10 @@
+# [3.27.0](https://github.com/jimmy-guzman/eslint-config/compare/v3.26.0...v3.27.0) (2024-12-06)
+
+
+### Features
+
+* ✨ use `@vitest/eslint-plugin` for `vitest` ([#63](https://github.com/jimmy-guzman/eslint-config/issues/63)) ([4a68d1a](https://github.com/jimmy-guzman/eslint-config/commit/4a68d1a3ab8a3a2406fa31857b104c86fee90c88))
+
 # [3.26.0](https://github.com/jimmy-guzman/eslint-config/compare/v3.25.0...v3.26.0) (2024-12-06)
 
 
