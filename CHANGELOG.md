@@ -1,3 +1,10 @@
+# [3.28.0](https://github.com/jimmy-guzman/eslint-config/compare/v3.27.1...v3.28.0) (2024-12-07)
+
+
+### Features
+
+* ✨ add `eslint-plugin-jsdoc` rules ([#117](https://github.com/jimmy-guzman/eslint-config/issues/117)) ([1cb9b1b](https://github.com/jimmy-guzman/eslint-config/commit/1cb9b1b2279518faa916eca751bc15d077e130b6)), closes [#88](https://github.com/jimmy-guzman/eslint-config/issues/88)
+
 ## [3.27.1](https://github.com/jimmy-guzman/eslint-config/compare/v3.27.0...v3.27.1) (2024-12-06)
 
 
