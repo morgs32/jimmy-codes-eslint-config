@@ -1,3 +1,12 @@
+## [3.28.1](https://github.com/jimmy-guzman/eslint-config/compare/v3.28.0...v3.28.1) (2024-12-12)
+
+
+### Bug Fixes
+
+* 🐛 bump `@vitest/eslint-plugin` to v1.1.16 ([5c538da](https://github.com/jimmy-guzman/eslint-config/commit/5c538da9d161be578794f792c79c8e2d58f43d4a))
+* 🐛 bump `eslint-plugin-jsdoc` to v50.6.1 ([544c492](https://github.com/jimmy-guzman/eslint-config/commit/544c4928292dbce8a271a74f330f5f2d00d27868))
+* 🐛 bump `eslint-plugin-react-compiler` to latest ([d6103d5](https://github.com/jimmy-guzman/eslint-config/commit/d6103d58aaa51c12fc65ff83db8664aa3f0640e6))
+
 # [3.28.0](https://github.com/jimmy-guzman/eslint-config/compare/v3.27.1...v3.28.0) (2024-12-07)
 
 
