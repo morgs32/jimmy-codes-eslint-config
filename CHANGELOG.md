@@ -1,3 +1,10 @@
+## [3.28.2](https://github.com/jimmy-guzman/eslint-config/compare/v3.28.1...v3.28.2) (2024-12-12)
+
+
+### Bug Fixes
+
+* 🐛 drop deprecated `vitest/no-done-callback` rule ([#132](https://github.com/jimmy-guzman/eslint-config/issues/132)) ([5b863e7](https://github.com/jimmy-guzman/eslint-config/commit/5b863e76e05e8834d14b7872610a3edbdf565481)), closes [#131](https://github.com/jimmy-guzman/eslint-config/issues/131)
+
 ## [3.28.1](https://github.com/jimmy-guzman/eslint-config/compare/v3.28.0...v3.28.1) (2024-12-12)
 
 
