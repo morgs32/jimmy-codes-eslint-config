@@ -1,3 +1,16 @@
+# [3.29.0](https://github.com/jimmy-guzman/eslint-config/compare/v3.28.2...v3.29.0) (2025-01-01)
+
+
+### Features
+
+* ✨ bump `@eslint/js` to v9.17.0 ([8320f8e](https://github.com/jimmy-guzman/eslint-config/commit/8320f8e52ab6ae7ce1452aef494718893e7924aa))
+* ✨ bump `eslint-plugin-n` to v17.15.1 ([89079c6](https://github.com/jimmy-guzman/eslint-config/commit/89079c62b77bdb508cd85d62565cc01542d456ec))
+* ✨ bump `eslint-plugin-perfectionist` to v4.5.0 ([4f1ac4c](https://github.com/jimmy-guzman/eslint-config/commit/4f1ac4c9bed4289eb400d6f26e045d9c273e6daf))
+* ✨ bump `globals` to v15.14.0 ([5d4fc24](https://github.com/jimmy-guzman/eslint-config/commit/5d4fc246b0d1428b5bcb64dd14d5c8bb01c57340))
+* ✨ bump `typescript-eslint` to v8.19.0 ([0428bcd](https://github.com/jimmy-guzman/eslint-config/commit/0428bcda57d5ccd095ea72041d653475d645e642))
+* ✨ bump related `react` eslint deps to latest ([8db5812](https://github.com/jimmy-guzman/eslint-config/commit/8db58127659c1d0371037d6dc47f119b7ba2c4c3))
+* ✨ bump related testing eslint deps to latest ([949b3d5](https://github.com/jimmy-guzman/eslint-config/commit/949b3d5752292af6987b5afdf26cb6d162e8b7c5))
+
 ## [3.28.2](https://github.com/jimmy-guzman/eslint-config/compare/v3.28.1...v3.28.2) (2024-12-12)
 
 
