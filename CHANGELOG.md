@@ -1,3 +1,26 @@
+# [3.30.0](https://github.com/jimmy-guzman/eslint-config/compare/v3.29.0...v3.30.0) (2025-02-23)
+
+
+### Bug Fixes
+
+* 🐛 bump `eslint-plugin-jsdoc` to v50.6.3 ([f718476](https://github.com/jimmy-guzman/eslint-config/commit/f7184765ac05786f6bc21a30a63160478ce8f3b6))
+* 🐛 bump `eslint-plugin-storybook` to v0.11.3 ([bd5e5e4](https://github.com/jimmy-guzman/eslint-config/commit/bd5e5e40c709bdca1b9655ef366ff0ada97e7584))
+
+
+### Features
+
+* ✨ bump `@eslint/js` to v9.21.0 ([131fdc9](https://github.com/jimmy-guzman/eslint-config/commit/131fdc9cdfbdc9953a5ff31fd49bbe6e254348dd))
+* ✨ bump `@tanstack/eslint-plugin-query` to v5.66.1 ([41353a1](https://github.com/jimmy-guzman/eslint-config/commit/41353a1140c8fde671f7905183c59088fc874efc))
+* ✨ bump `astro-eslint-parser` to v1.2.1 ([206b77e](https://github.com/jimmy-guzman/eslint-config/commit/206b77e0aabfdd6638b607b3fed3f58214303c8e))
+* ✨ bump `eslint-config-prettier` to v19 ([52b6d3a](https://github.com/jimmy-guzman/eslint-config/commit/52b6d3a27ac01bf6fb2f45b8d4ba4864ae3bbbb6))
+* ✨ bump `eslint-plugin-jest` to v28.11.0 ([d97247f](https://github.com/jimmy-guzman/eslint-config/commit/d97247f56abc9da7abd9d9f3a3a2402aa701891e))
+* ✨ bump `eslint-plugin-perfectionist` to v4.9.0 ([b7559ba](https://github.com/jimmy-guzman/eslint-config/commit/b7559bae39484a074ce973088f53dd314e9f9703))
+* ✨ bump `react` related plugins to latest ([368223a](https://github.com/jimmy-guzman/eslint-config/commit/368223ac8fae955ecd177a7626c52841120c0583))
+* ✨ bump `typescript-eslint` to v8.24.1 ([9222e57](https://github.com/jimmy-guzman/eslint-config/commit/9222e5704d12231700f7e520b3f870a8441d2174))
+* ✨ enable `playwright/no-slowed-test` rule ([7f070cd](https://github.com/jimmy-guzman/eslint-config/commit/7f070cdf1186a179a219292aebf85f404f1f2885))
+* ✨ enable `vitest/prefer-strict-boolean-matchers` ([869d6d4](https://github.com/jimmy-guzman/eslint-config/commit/869d6d47c2acc23ddc11027d49b0a934a719c735))
+* ✨ use new `import-x` node resolver ([3bb2b87](https://github.com/jimmy-guzman/eslint-config/commit/3bb2b8728517b6fe5796970ff78c38aa63a9f2e8))
+
 # [3.29.0](https://github.com/jimmy-guzman/eslint-config/compare/v3.28.2...v3.29.0) (2025-01-01)
 
 
