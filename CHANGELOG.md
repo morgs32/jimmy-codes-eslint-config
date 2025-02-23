@@ -1,3 +1,15 @@
+# [4.0.0](https://github.com/jimmy-guzman/eslint-config/compare/v3.30.1...v4.0.0) (2025-02-23)
+
+
+### Features
+
+* ✨ drop all deprecated options ([#109](https://github.com/jimmy-guzman/eslint-config/issues/109)) ([dd55759](https://github.com/jimmy-guzman/eslint-config/commit/dd55759d0e594853498cf16db8158c62d4c9a3eb))
+
+
+### BREAKING CHANGES
+
+* 💥 deprecated options are no longer supported.
+
 ## [3.30.1](https://github.com/jimmy-guzman/eslint-config/compare/v3.30.0...v3.30.1) (2025-02-23)
 
 
