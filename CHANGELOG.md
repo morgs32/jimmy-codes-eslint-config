@@ -1,3 +1,10 @@
+## [3.30.1](https://github.com/jimmy-guzman/eslint-config/compare/v3.30.0...v3.30.1) (2025-02-23)
+
+
+### Bug Fixes
+
+* 🐛 don't use next node resolver for now ([#142](https://github.com/jimmy-guzman/eslint-config/issues/142)) ([9252e29](https://github.com/jimmy-guzman/eslint-config/commit/9252e29e7789418a0a695b5b5c380f7443d7043c))
+
 # [3.30.0](https://github.com/jimmy-guzman/eslint-config/compare/v3.29.0...v3.30.0) (2025-02-23)
 
 
