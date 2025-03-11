@@ -1,3 +1,10 @@
+# [4.1.0](https://github.com/jimmy-guzman/eslint-config/compare/v4.0.0...v4.1.0) (2025-03-11)
+
+
+### Features
+
+* ✨ getting stricter JavaScript w/ rules ([#143](https://github.com/jimmy-guzman/eslint-config/issues/143)) ([353c324](https://github.com/jimmy-guzman/eslint-config/commit/353c3242fbb6f66ad7bb3994420b90238344f090))
+
 # [4.0.0](https://github.com/jimmy-guzman/eslint-config/compare/v3.30.1...v4.0.0) (2025-02-23)
 
 
