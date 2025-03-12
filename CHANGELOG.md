@@ -1,3 +1,10 @@
+## [4.3.1](https://github.com/jimmy-guzman/eslint-config/compare/v4.3.0...v4.3.1) (2025-03-12)
+
+
+### Bug Fixes
+
+* 🐛 require one blank line before first jsdoc tag ([#147](https://github.com/jimmy-guzman/eslint-config/issues/147)) ([1895061](https://github.com/jimmy-guzman/eslint-config/commit/1895061c9c216c4020916d041ca43948c3439474))
+
 # [4.3.0](https://github.com/jimmy-guzman/eslint-config/compare/v4.2.1...v4.3.0) (2025-03-12)
 
 
