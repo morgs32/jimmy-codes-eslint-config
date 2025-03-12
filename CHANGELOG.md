@@ -1,3 +1,10 @@
+# [4.3.0](https://github.com/jimmy-guzman/eslint-config/compare/v4.2.1...v4.3.0) (2025-03-12)
+
+
+### Features
+
+* ✨ add named export `defineConfig` ([#146](https://github.com/jimmy-guzman/eslint-config/issues/146)) ([c681698](https://github.com/jimmy-guzman/eslint-config/commit/c681698b7ad8fb1f403e55d0348c1aa7e3cd89e2))
+
 ## [4.2.1](https://github.com/jimmy-guzman/eslint-config/compare/v4.2.0...v4.2.1) (2025-03-12)
 
 
