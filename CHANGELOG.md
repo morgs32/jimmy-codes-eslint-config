@@ -1,3 +1,10 @@
+## [4.2.1](https://github.com/jimmy-guzman/eslint-config/compare/v4.2.0...v4.2.1) (2025-03-12)
+
+
+### Bug Fixes
+
+* 🐛 disable `no-magic-numbers` in tests ([#145](https://github.com/jimmy-guzman/eslint-config/issues/145)) ([e896051](https://github.com/jimmy-guzman/eslint-config/commit/e896051d80594efdb1a153ac8d0b855989e69ab7))
+
 # [4.2.0](https://github.com/jimmy-guzman/eslint-config/compare/v4.1.0...v4.2.0) (2025-03-12)
 
 
