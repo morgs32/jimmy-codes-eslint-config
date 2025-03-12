@@ -1,3 +1,15 @@
+# [4.2.0](https://github.com/jimmy-guzman/eslint-config/compare/v4.1.0...v4.2.0) (2025-03-12)
+
+
+### Bug Fixes
+
+* 🐛 bump `eslint-plugin-react-compiler` to latest ([3457f3a](https://github.com/jimmy-guzman/eslint-config/commit/3457f3aa875ae8f78183b27522006e078e3e03ab))
+
+
+### Features
+
+* ✨ bump `eslint-config-prettier` to v10.1.1 ([3eb8728](https://github.com/jimmy-guzman/eslint-config/commit/3eb872803fc3c594a362f4f70b4ab5bcc231fd19))
+
 # [4.1.0](https://github.com/jimmy-guzman/eslint-config/compare/v4.0.0...v4.1.0) (2025-03-11)
 
 
