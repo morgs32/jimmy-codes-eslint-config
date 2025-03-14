@@ -1,3 +1,25 @@
+# [5.0.0](https://github.com/jimmy-guzman/eslint-config/compare/v4.3.1...v5.0.0) (2025-03-14)
+
+
+### Bug Fixes
+
+* 🐛 make sure `prettier` happens last to override rules ([ca54dd4](https://github.com/jimmy-guzman/eslint-config/commit/ca54dd4f4e44113a88a9553e6934d72eff110030))
+
+
+### Features
+
+* ✨ drop CJS build ([ed8d010](https://github.com/jimmy-guzman/eslint-config/commit/ed8d010132df16b15fbbe8e98b1cf2ffe69cd273))
+* ✨ drop default export in favor of only named ([878f286](https://github.com/jimmy-guzman/eslint-config/commit/878f2866f030fde07921de67f115fa54970a31e0))
+* ✨ dynamically load optional configs ([f249e46](https://github.com/jimmy-guzman/eslint-config/commit/f249e46a99d3f682d182ca30ce42a9a38562f8c9))
+* ✨ improve performance w/ `Promise.all` on configs ([e547291](https://github.com/jimmy-guzman/eslint-config/commit/e547291e9d726246a61fdbbabdc7dca23b86917b))
+
+
+### BREAKING CHANGES
+
+* 💥 no default export is available, use named import
+* 💥 CJS build is no longer availabe, use `.mjs` or
+`.mts` if you're on CJS.
+
 ## [4.3.1](https://github.com/jimmy-guzman/eslint-config/compare/v4.3.0...v4.3.1) (2025-03-12)
 
 
