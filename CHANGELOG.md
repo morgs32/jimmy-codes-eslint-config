@@ -1,3 +1,18 @@
+# [5.2.0](https://github.com/jimmy-guzman/eslint-config/compare/v5.1.0...v5.2.0) (2025-03-18)
+
+
+### Bug Fixes
+
+* 🐛 bump `@vitest/eslint-plugin` to v1.1.38 ([d79ddc8](https://github.com/jimmy-guzman/eslint-config/commit/d79ddc8485ce4a8eccf34b0702072c160b4ea8bb))
+* 🐛 bump `eslint-plugin-import-x` to v4.8.1 ([4c1e0b1](https://github.com/jimmy-guzman/eslint-config/commit/4c1e0b1e7ab85956982da8b1e3daed84da4b2b57))
+* 🐛 bump `eslint-plugin-jsdoc` to v50.6.8 ([ab0a371](https://github.com/jimmy-guzman/eslint-config/commit/ab0a371c2e5595d3fcbb88a60b3b8b9d542490ee))
+
+
+### Features
+
+* ✨ bump `eslint-plugin-unicorn` to v57 ([6c1c35b](https://github.com/jimmy-guzman/eslint-config/commit/6c1c35b86fed5d5b0cc8b2fd6e662927b07638b4))
+* ✨ bump `globals` to v16 ([cf6aac3](https://github.com/jimmy-guzman/eslint-config/commit/cf6aac3ca4e30247ee18ac4d243b27adb4ba2a56))
+
 # [5.1.0](https://github.com/jimmy-guzman/eslint-config/compare/v5.0.0...v5.1.0) (2025-03-18)
 
 
