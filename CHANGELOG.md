@@ -1,3 +1,16 @@
+# [5.1.0](https://github.com/jimmy-guzman/eslint-config/compare/v5.0.0...v5.1.0) (2025-03-18)
+
+
+### Bug Fixes
+
+* 🐛 bump `eslint-plugin-react-compiler` to latest ([30a1397](https://github.com/jimmy-guzman/eslint-config/commit/30a1397cae8b3c3630f32d9adb9667a27cd490a9))
+
+
+### Features
+
+* ✨ add support for `typescript` v5.8 ([d00fcdd](https://github.com/jimmy-guzman/eslint-config/commit/d00fcddd89b19fcc720ce9ba67e7e67f0f5b137f))
+* ✨ leverage speed up wins from `import` plugins ([ea93bae](https://github.com/jimmy-guzman/eslint-config/commit/ea93baed73c016979d9184f62f2c36743be9d453))
+
 # [5.0.0](https://github.com/jimmy-guzman/eslint-config/compare/v4.3.1...v5.0.0) (2025-03-14)
 
 
