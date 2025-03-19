@@ -1,3 +1,10 @@
+# [5.4.0](https://github.com/jimmy-guzman/eslint-config/compare/v5.3.0...v5.4.0) (2025-03-19)
+
+
+### Features
+
+* ✨ enable more `@tanstack/react-query` rules ([#153](https://github.com/jimmy-guzman/eslint-config/issues/153)) ([29f43af](https://github.com/jimmy-guzman/eslint-config/commit/29f43afb913d8452cc80a394ad70fca29c1a9e74))
+
 # [5.3.0](https://github.com/jimmy-guzman/eslint-config/compare/v5.2.0...v5.3.0) (2025-03-19)
 
 
