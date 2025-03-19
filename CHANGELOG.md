@@ -1,3 +1,10 @@
+# [5.3.0](https://github.com/jimmy-guzman/eslint-config/compare/v5.2.0...v5.3.0) (2025-03-19)
+
+
+### Features
+
+* ✨ enable a few `node` rules ([#152](https://github.com/jimmy-guzman/eslint-config/issues/152)) ([bf61352](https://github.com/jimmy-guzman/eslint-config/commit/bf61352de78fce65353b805e5e2789544d1a83cb)), closes [#55](https://github.com/jimmy-guzman/eslint-config/issues/55)
+
 # [5.2.0](https://github.com/jimmy-guzman/eslint-config/compare/v5.1.0...v5.2.0) (2025-03-18)
 
 
