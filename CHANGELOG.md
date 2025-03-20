@@ -1,3 +1,10 @@
+# [5.5.0](https://github.com/jimmy-guzman/eslint-config/compare/v5.4.0...v5.5.0) (2025-03-20)
+
+
+### Features
+
+* ✨ add `stylistic` rules to base config ([#155](https://github.com/jimmy-guzman/eslint-config/issues/155)) ([6ef649a](https://github.com/jimmy-guzman/eslint-config/commit/6ef649a71135cb07b3973f7f1fa60e5fd56f9974)), closes [#49](https://github.com/jimmy-guzman/eslint-config/issues/49)
+
 # [5.4.0](https://github.com/jimmy-guzman/eslint-config/compare/v5.3.0...v5.4.0) (2025-03-19)
 
 
