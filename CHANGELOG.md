@@ -1,3 +1,10 @@
+# [5.6.0](https://github.com/jimmy-guzman/eslint-config/compare/v5.5.0...v5.6.0) (2025-03-22)
+
+
+### Features
+
+* ✨ move to `@eslint-react/eslint-plugin` ([#156](https://github.com/jimmy-guzman/eslint-config/issues/156)) ([3c934b5](https://github.com/jimmy-guzman/eslint-config/commit/3c934b5bb42e7bf3d95c2a46303b0fe3bd3e647a))
+
 # [5.5.0](https://github.com/jimmy-guzman/eslint-config/compare/v5.4.0...v5.5.0) (2025-03-20)
 
 
