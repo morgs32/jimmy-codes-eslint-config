@@ -1,3 +1,10 @@
+# [5.7.0](https://github.com/jimmy-guzman/eslint-config/compare/v5.6.0...v5.7.0) (2025-03-23)
+
+
+### Features
+
+* ✨ enable more `react` rules, including hooks ([#157](https://github.com/jimmy-guzman/eslint-config/issues/157)) ([8c5ad69](https://github.com/jimmy-guzman/eslint-config/commit/8c5ad695555d6c77d66efe8c4b0dd8220666c68a))
+
 # [5.6.0](https://github.com/jimmy-guzman/eslint-config/compare/v5.5.0...v5.6.0) (2025-03-22)
 
 
