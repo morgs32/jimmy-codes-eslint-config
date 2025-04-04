@@ -1,3 +1,10 @@
+# [5.8.0](https://github.com/jimmy-guzman/eslint-config/compare/v5.7.0...v5.8.0) (2025-04-04)
+
+
+### Features
+
+* ✨ bump `react` plugins to latest ([#162](https://github.com/jimmy-guzman/eslint-config/issues/162)) ([58f5444](https://github.com/jimmy-guzman/eslint-config/commit/58f5444e1aeb78468aa510d4a6a4c32bee75a502))
+
 # [5.7.0](https://github.com/jimmy-guzman/eslint-config/compare/v5.6.0...v5.7.0) (2025-03-23)
 
 
