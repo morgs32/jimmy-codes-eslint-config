@@ -1,3 +1,11 @@
+# [5.10.0](https://github.com/jimmy-guzman/eslint-config/compare/v5.9.0...v5.10.0) (2025-04-08)
+
+
+### Features
+
+* ✨ enforce `^should` for vitest,jest,playwright it titles ([9b502ac](https://github.com/jimmy-guzman/eslint-config/commit/9b502ac9415e9e542e8540cbe893d874c0cd200d))
+* ✨ turn off `unicorn/no-useless-undefined` (opinionated) ([1252f67](https://github.com/jimmy-guzman/eslint-config/commit/1252f67925073dbe9e9fbbb9e37680707e7c6583))
+
 # [5.9.0](https://github.com/jimmy-guzman/eslint-config/compare/v5.8.0...v5.9.0) (2025-04-04)
 
 
