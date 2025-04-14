@@ -1,3 +1,17 @@
+# [5.11.0](https://github.com/jimmy-guzman/eslint-config/compare/v5.10.0...v5.11.0) (2025-04-14)
+
+
+### Bug Fixes
+
+* 🐛 disable `playwright/valid-title` ([97df06a](https://github.com/jimmy-guzman/eslint-config/commit/97df06a0674f105ef3ec72205bbc811426e4d327))
+
+
+### Features
+
+* ✨ bump `dependencies` to latest ([eb8b697](https://github.com/jimmy-guzman/eslint-config/commit/eb8b69774e4c0c2f0dd2ebfff6c592cc6b21ae12))
+* ✨ bump `eslint-react` to v1.47.2 (new rules) ([d4fde02](https://github.com/jimmy-guzman/eslint-config/commit/d4fde02bc328afb9c5e7ccb7904fd1ba91b71b6f))
+* ✨ enable `@tanstack/query/no-void-query-fn` ([b9b0fb9](https://github.com/jimmy-guzman/eslint-config/commit/b9b0fb9c398f8ef95a2d5776b023e1fb8e743ce4))
+
 # [5.10.0](https://github.com/jimmy-guzman/eslint-config/compare/v5.9.0...v5.10.0) (2025-04-08)
 
 
