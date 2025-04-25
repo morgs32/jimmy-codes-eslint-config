@@ -1,3 +1,10 @@
+# [5.12.0](https://github.com/jimmy-guzman/eslint-config/compare/v5.11.0...v5.12.0) (2025-04-25)
+
+
+### Features
+
+* ✨ bump all deps to latest ([#169](https://github.com/jimmy-guzman/eslint-config/issues/169)) ([acb450d](https://github.com/jimmy-guzman/eslint-config/commit/acb450d437cc8b24f001d4e73efaac0706e27576))
+
 # [5.11.0](https://github.com/jimmy-guzman/eslint-config/compare/v5.10.0...v5.11.0) (2025-04-14)
 
 
