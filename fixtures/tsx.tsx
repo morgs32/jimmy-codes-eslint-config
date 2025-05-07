@@ -1,3 +1,5 @@
+import { __foobar } from "./__double-underscore";
+
 export function Component1() {
-  return <div />;
+  return <div>{__foobar}</div>;
 }
