@@ -11,3 +11,6 @@ color: always
 engineStrict: true
 
 savePrefix: ""
+
+packages:
+  - packages/*
